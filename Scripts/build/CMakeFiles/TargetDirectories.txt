@@ -1,0 +1,3 @@
+C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build/CMakeFiles/ex1.dir
+C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build/CMakeFiles/edit_cache.dir
+C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build/CMakeFiles/rebuild_cache.dir

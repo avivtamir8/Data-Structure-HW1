@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -o CMakeFiles\\ex1.dir\\Country.cpp.obj -c \"C:\\Users\\avivt\\Documents\\Degree\\Semester 5\\Data Structures 1\\HW1\\DataStructuresHW1\\Scripts\\Country.cpp\"",
+  "file": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/Country.cpp",
+  "output": "CMakeFiles/ex1.dir/Country.cpp.obj"
+},
+{
+  "directory": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -o CMakeFiles\\ex1.dir\\Contestant.cpp.obj -c \"C:\\Users\\avivt\\Documents\\Degree\\Semester 5\\Data Structures 1\\HW1\\DataStructuresHW1\\Scripts\\Contestant.cpp\"",
+  "file": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/Contestant.cpp",
+  "output": "CMakeFiles/ex1.dir/Contestant.cpp.obj"
+},
+{
+  "directory": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -o CMakeFiles\\ex1.dir\\Team.cpp.obj -c \"C:\\Users\\avivt\\Documents\\Degree\\Semester 5\\Data Structures 1\\HW1\\DataStructuresHW1\\Scripts\\Team.cpp\"",
+  "file": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/Team.cpp",
+  "output": "CMakeFiles/ex1.dir/Team.cpp.obj"
+},
+{
+  "directory": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -o CMakeFiles\\ex1.dir\\maina1.cpp.obj -c \"C:\\Users\\avivt\\Documents\\Degree\\Semester 5\\Data Structures 1\\HW1\\DataStructuresHW1\\Scripts\\maina1.cpp\"",
+  "file": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/maina1.cpp",
+  "output": "CMakeFiles/ex1.dir/maina1.cpp.obj"
+},
+{
+  "directory": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/ex1.dir/includes_CXX.rsp -g -o CMakeFiles\\ex1.dir\\Olympicsa1.cpp.obj -c \"C:\\Users\\avivt\\Documents\\Degree\\Semester 5\\Data Structures 1\\HW1\\DataStructuresHW1\\Scripts\\Olympicsa1.cpp\"",
+  "file": "C:/Users/avivt/Documents/Degree/Semester 5/Data Structures 1/HW1/DataStructuresHW1/Scripts/Olympicsa1.cpp",
+  "output": "CMakeFiles/ex1.dir/Olympicsa1.cpp.obj"
+}
+]
